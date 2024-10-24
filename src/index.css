@@ -6,9 +6,9 @@
 	color: white;
 }
 body {
-	background-color: black;
+	background-color: #1c1c1c;
 }
-#allTasks::-webkit-scrollbar {
+#assignedTasks::-webkit-scrollbar {
 	display: none;
 }
 

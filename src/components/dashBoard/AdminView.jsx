@@ -1,9 +1,15 @@
-import React from 'react'
+import React from "react";
+import { CreateTask, Header } from "../";
 
 function AdminView() {
     return (
-        <div>AdminView</div>
-    )
+        <>
+            <div className="p-10  h-screen w-full">
+                <Header />
+                <CreateTask />
+            </div >
+        </>
+    );
 }
 
-export default AdminView
+export default AdminView;

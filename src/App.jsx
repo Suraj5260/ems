@@ -1,11 +1,12 @@
 import React from 'react'
-import { EmployeeView, Login } from './components'
+import { AdminView, EmployeeView, Login } from './components'
 
 function App() {
   return (
     <>
       {/* <Login /> */}
-      <EmployeeView />
+      {/* <EmployeeView /> */}
+      <AdminView />
     </>
   )
 }
