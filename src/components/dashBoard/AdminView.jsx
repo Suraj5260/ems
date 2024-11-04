@@ -1,12 +1,13 @@
 import React from "react";
-import { CreateTask, Header } from "../";
+import { AllTasks, CreateTask, Header } from "../";
 
 function AdminView() {
     return (
         <>
-            <div className="p-10  h-screen w-full">
+            <div className="p-5  h-screen w-full">
                 <Header />
                 <CreateTask />
+                <AllTasks />
             </div >
         </>
     );

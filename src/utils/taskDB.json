@@ -1,0 +1,250 @@
+{
+	"1": {
+		"newTasks": [
+			{
+				"taskId": 101,
+				"title": "Prepare sales report",
+				"description": "Compile monthly sales data and generate a summary report.",
+				"dueDate": "2024-11-01"
+			},
+			{
+				"taskId": 102,
+				"title": "Client follow-up",
+				"description": "Contact clients to gather feedback on recent projects.",
+				"dueDate": "2024-11-03"
+			},
+			{
+				"taskId": 103,
+				"title": "Update CRM records",
+				"description": "Ensure that all client information is up to date in the CRM.",
+				"dueDate": "2024-11-06"
+			}
+		],
+		"acceptedTasks": [
+			{
+				"taskId": 104,
+				"title": "Market analysis",
+				"description": "Analyze current market trends for quarterly review.",
+				"dueDate": "2024-10-30"
+			},
+			{
+				"taskId": 105,
+				"title": "Organize team meeting",
+				"description": "Schedule and prepare agenda for monthly team meeting.",
+				"dueDate": "2024-11-02"
+			}
+		],
+		"completedTasks": [
+			{
+				"taskId": 106,
+				"title": "Budget forecast",
+				"description": "Create a financial forecast for the upcoming quarter.",
+				"dueDate": "2024-10-20"
+			},
+			{
+				"taskId": 107,
+				"title": "Customer feedback analysis",
+				"description": "Review and summarize customer feedback from last month.",
+				"dueDate": "2024-10-22"
+			}
+		],
+		"failedTasks": [
+			{
+				"taskId": 108,
+				"title": "Supplier evaluation",
+				"description": "Assess current suppliers for quality and reliability.",
+				"dueDate": "2024-10-25"
+			}
+		]
+	},
+	"2": {
+		"newTasks": [
+			{
+				"taskId": 201,
+				"title": "Website content review",
+				"description": "Review and update outdated content on the company website.",
+				"dueDate": "2024-11-05"
+			},
+			{
+				"taskId": 202,
+				"title": "SEO analysis",
+				"description": "Analyze SEO performance for the website and propose improvements.",
+				"dueDate": "2024-11-08"
+			},
+			{
+				"taskId": 203,
+				"title": "Blog post planning",
+				"description": "Plan topics for upcoming blog posts.",
+				"dueDate": "2024-11-10"
+			},
+			{
+				"taskId": 204,
+				"title": "Social media audit",
+				"description": "Assess current social media strategy and make recommendations.",
+				"dueDate": "2024-11-12"
+			}
+		],
+		"acceptedTasks": [
+			{
+				"taskId": 205,
+				"title": "Product launch preparation",
+				"description": "Coordinate activities for the new product launch.",
+				"dueDate": "2024-11-07"
+			},
+			{
+				"taskId": 206,
+				"title": "Customer email campaign",
+				"description": "Draft emails for an upcoming customer engagement campaign.",
+				"dueDate": "2024-11-03"
+			}
+		],
+		"completedTasks": [
+			{
+				"taskId": 207,
+				"title": "Competitor analysis",
+				"description": "Research and summarize competitor activities.",
+				"dueDate": "2024-10-15"
+			},
+			{
+				"taskId": 208,
+				"title": "Marketing budget review",
+				"description": "Review budget allocation for the current marketing campaigns.",
+				"dueDate": "2024-10-18"
+			}
+		],
+		"failedTasks": [
+			{
+				"taskId": 209,
+				"title": "Influencer outreach",
+				"description": "Reach out to potential influencers for collaborations.",
+				"dueDate": "2024-10-25"
+			}
+		]
+	},
+	"3": {
+		"newTasks": [
+			{
+				"taskId": 301,
+				"title": "Internal training preparation",
+				"description": "Organize materials for upcoming employee training sessions.",
+				"dueDate": "2024-11-04"
+			},
+			{
+				"taskId": 302,
+				"title": "Policy update draft",
+				"description": "Draft updates to the employee policies handbook.",
+				"dueDate": "2024-11-07"
+			}
+		],
+		"acceptedTasks": [
+			{
+				"taskId": 303,
+				"title": "Employee survey analysis",
+				"description": "Compile and analyze data from the recent employee survey.",
+				"dueDate": "2024-11-03"
+			}
+		],
+		"completedTasks": [
+			{
+				"taskId": 304,
+				"title": "Team building event",
+				"description": "Organize a team-building event to improve employee engagement.",
+				"dueDate": "2024-10-10"
+			},
+			{
+				"taskId": 305,
+				"title": "Recruitment strategy review",
+				"description": "Assess and refine the strategy for current hiring efforts.",
+				"dueDate": "2024-10-15"
+			}
+		],
+		"failedTasks": [
+			{
+				"taskId": 306,
+				"title": "Employee training module update",
+				"description": "Update modules for employee training.",
+				"dueDate": "2024-10-20"
+			}
+		]
+	},
+	"4": {
+		"newTasks": [
+			{
+				"taskId": 401,
+				"title": "Design promotional material",
+				"description": "Create visuals for the upcoming promotional campaign.",
+				"dueDate": "2024-11-10"
+			}
+		],
+		"acceptedTasks": [
+			{
+				"taskId": 402,
+				"title": "Event logistics",
+				"description": "Manage logistics for the annual corporate event.",
+				"dueDate": "2024-11-08"
+			}
+		],
+		"completedTasks": [
+			{
+				"taskId": 403,
+				"title": "Branding refresh",
+				"description": "Update branding guidelines to align with new design language.",
+				"dueDate": "2024-10-20"
+			},
+			{
+				"taskId": 404,
+				"title": "Ad campaign design",
+				"description": "Create graphics and materials for the ad campaign.",
+				"dueDate": "2024-10-25"
+			}
+		],
+		"failedTasks": [
+			{
+				"taskId": 405,
+				"title": "Focus group feedback",
+				"description": "Analyze feedback from recent focus groups.",
+				"dueDate": "2024-10-28"
+			}
+		]
+	},
+	"5": {
+		"newTasks": [
+			{
+				"taskId": 501,
+				"title": "Develop app prototype",
+				"description": "Create an initial prototype for the new mobile app.",
+				"dueDate": "2024-11-15"
+			}
+		],
+		"acceptedTasks": [
+			{
+				"taskId": 502,
+				"title": "Database optimization",
+				"description": "Improve database performance and reduce query time.",
+				"dueDate": "2024-11-12"
+			}
+		],
+		"completedTasks": [
+			{
+				"taskId": 503,
+				"title": "Backend service deployment",
+				"description": "Deploy the backend service to production.",
+				"dueDate": "2024-10-22"
+			},
+			{
+				"taskId": 504,
+				"title": "API testing",
+				"description": "Test and verify API endpoints.",
+				"dueDate": "2024-10-24"
+			}
+		],
+		"failedTasks": [
+			{
+				"taskId": 505,
+				"title": "Feature integration",
+				"description": "Integrate requested feature into the app.",
+				"dueDate": "2024-10-28"
+			}
+		]
+	}
+}
