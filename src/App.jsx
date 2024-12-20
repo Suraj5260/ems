@@ -16,13 +16,15 @@ const App = () => {
 
   // }, [])
 
-  console.log(userData)
+  // console.log(userData)
 
   return (
     <>
-      {!user ? <Login handleLogin={handleLogin} /> : " "}
-      {/* <EmployeeView /> */}
+      {/* {!user ? <Login handleLogin={handleLogin} /> : " "} */}
+      <EmployeeView /> // I did disable the auth provider btw
       {/* <AdminView /> */}
+
+
     </>
   )
 }
