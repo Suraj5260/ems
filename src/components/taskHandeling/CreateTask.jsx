@@ -17,7 +17,7 @@ function CreateTask() {
                         <h3 className='mt-2' >Task Due Date</h3>
                         <input className="mt-3 bg-gray-200  text-black outline-none px-5 py-3 rounded-sm placeholder:text-black" type="date" />
 
-                        <h3 className='mt-2' >Task Priority</h3>
+                        <h3 className='mt-2' >Task status</h3>
                         <input className="mt-3 bg-gray-200  text-black outline-none px-5 py-3 rounded-sm placeholder:text-black" type="text" placeholder="Task Priority" />
 
                         <h3 className='mt-2' >Assign to</h3>

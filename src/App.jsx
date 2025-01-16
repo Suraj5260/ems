@@ -4,11 +4,12 @@ import { getLocalStorage, setLocalStorage } from './utils/LocalStorage'
 import { data } from 'autoprefixer'
 
 
-const App = () => {
+function App() {
   const [user, setUser] = useState(null)
-  const handleLogin = (email, password) => {
 
-  }
+
+  console.log();
+
 
 
   // useEffect(() => {
@@ -20,10 +21,10 @@ const App = () => {
 
   return (
     <>
-      {/* {!user ? <Login handleLogin={handleLogin} /> : " "} */}
-      <EmployeeView /> // I did disable the auth provider btw
+      <Login />
+      {/* <EmployeeView /> // I did disable the auth provider btw */}
       {/* <AdminView /> */}
-
+      <h1>Hi man</h1>
 
     </>
   )
